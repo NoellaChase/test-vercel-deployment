@@ -12,24 +12,31 @@
             align-items: center;
             min-height: 100vh;
             margin: 0;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
-            color: white;
+            background: linear-gradient(135deg, #ffffff 0%, #e0c3fc 30%, #8ec5fc 70%, #ff9a9e 100%);
+            color: #333;
         }
         .container {
             text-align: center;
             padding: 2rem;
-            background: rgba(255,255,255,0.1);
+            background: rgba(255,255,255,0.9);
             border-radius: 20px;
-            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
         }
-        h1 { margin: 0 0 1rem 0; }
-        p { opacity: 0.9; }
+        h1 { 
+            margin: 0 0 1rem 0; 
+            color: #764ba2;
+        }
+        p { 
+            opacity: 0.8; 
+            color: #555;
+        }
         .status { 
             margin-top: 2rem; 
             padding: 1rem;
-            background: rgba(255,105,180,0.3);
+            background: linear-gradient(135deg, #667eea 0%, #ff6b9d 100%);
             border-radius: 10px;
             font-weight: bold;
+            color: white;
         }
     </style>
 </head>
@@ -38,7 +45,7 @@
         <h1>🎨 Noella Chase Designz</h1>
         <p>Test deployment successful!</p>
         <p>GitHub to Vercel pipeline is working perfectly.</p>
-        <div class="status">✅ Deployment Active - Purple & Pink!</div>
+        <div class="status">✅ Deployment Active - White, Purple & Pink!</div>
         <p style="margin-top: 2rem; font-size: 0.9rem;">
             Deployed: <span id="date"></span>
         </p>
