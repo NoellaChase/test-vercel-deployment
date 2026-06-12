@@ -1,0 +1,25 @@
+========================================
+🎨 SAMPLE DIGITAL PRODUCT
+Noella Chase Designz
+========================================
+
+Thank you for downloading this sample!
+
+This is a placeholder for your real digital products like:
+- Resin art templates
+- Design guides
+- Printable artwork
+- Tutorial PDFs
+
+HOW TO DELIVER REAL PRODUCTS:
+1. Upload files to GitHub (like this)
+2. Or use cloud storage (Google Drive, Dropbox)
+3. Or use a digital delivery service (Gumroad, SendOwl)
+4. Link to the download from your site
+
+For paid products, you'd:
+- Take payment first (Square, Stripe, PayPal)
+- Send download link after purchase
+- Or use a service that handles both
+
+========================================
